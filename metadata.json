@@ -1,0 +1,5 @@
+{
+  "name": "StudenIQ",
+  "description": "A smart university expense simulator for students in Itabuna and Ilhéus, helping plan budgets for housing, transport, and food.",
+  "requestFramePermissions": []
+}
